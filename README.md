@@ -5,4 +5,7 @@ I will put the test input in-line and my input in a file which is wiped after th
 
 After day for, I want a real debugger and will start posting .py files
 
-## Day 5: Hydrothermal Venture
+## [Day 5: Hydrothermal Venture](day05.py)
+Used a brute force approach, but it still finished right away
+
+## [Day 6: Lanternfish](day06.py)
