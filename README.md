@@ -13,3 +13,6 @@ Part one can be finished by tracking individual fish, but part two needs a diffe
 
 ## [Day 7: The Treachery of Whales](day07.py)
 Temped to time a run with a more brute-force part 2 to see how long it would take, but this is just a warm up for 2024 at the moment
+
+## Day 8: Seven Segment Search
+Took a bit of code, but pretty straight forward
