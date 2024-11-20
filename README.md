@@ -19,3 +19,6 @@ Took a bit of code, but pretty straight forward
 
 ## [Day 9: Smoke Basin](day09.py)
 Had to reread to see it is only the product of the top three in part 2, but otherwise not bad
+
+## [Day 10: Syntax Scoring](day10.py)
+The hardest part here was correctly reading the scoring protocol of part 2
