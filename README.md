@@ -22,3 +22,6 @@ Had to reread to see it is only the product of the top three in part 2, but othe
 
 ## [Day 10: Syntax Scoring](day10.py)
 The hardest part here was correctly reading the scoring protocol of part 2
+
+## [Day 11: Dumbo Octopus](day11.py)
+A matrix manipulation puzzle. Both parts are straight forward with part 1 taking some code, but part 2 is a quick extension
