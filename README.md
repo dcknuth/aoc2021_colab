@@ -25,3 +25,6 @@ The hardest part here was correctly reading the scoring protocol of part 2
 
 ## [Day 11: Dumbo Octopus](day11.py)
 A matrix manipulation puzzle. Both parts are straight forward with part 1 taking some code, but part 2 is a quick extension
+
+## [Day 12: Passage Pathing](day12.py)
+First puzzle with three test inputs and the first network/graph puzzle and the first where part two runs for more than a second. Used NetworkX, but just for an easy way to get neighbors in the graph
