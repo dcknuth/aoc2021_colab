@@ -28,3 +28,6 @@ A matrix manipulation puzzle. Both parts are straight forward with part 1 taking
 
 ## [Day 12: Passage Pathing](day12.py)
 First puzzle with three test inputs and the first network/graph puzzle and the first where part two runs for more than a second. Used NetworkX, but just for an easy way to get neighbors in the graph
+
+## [Day 13: Transparent Origami](day13.py)
+I decided to move to using NumPy after a brief start and had to relearn its slicing. Then I assumed folding in perfect halves, which is true for the example, but not the input. Then np.pad() is a little hard to use and VS Code had a bug (feature?) to always wrap the output at 74 chars, so needed to clean up the output. Took a bit of time for part 2 (mostly modifications to the fold function), but not super difficult
