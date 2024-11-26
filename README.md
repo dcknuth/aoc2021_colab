@@ -37,3 +37,5 @@ Part one can be done in a brute force, tracking way. Part two needed a change to
 
 ## [Day 15: Chiton](day15.py)
 Got some practice with both NetworkX and NumPy
+
+## [Day 16: Packet Decoder](day16.py)
